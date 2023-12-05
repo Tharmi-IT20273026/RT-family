@@ -1,10 +1,15 @@
 
 import './App.css';
+import Header from './component/Header';
 
 function App() {
   return (
-  <p> Hii RT family</p>
-  )
+    <>
+
+    <Header/>
+
+  </>
+  );
 }
 
 export default App;
